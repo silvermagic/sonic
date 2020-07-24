@@ -1,0 +1,3 @@
+[submodule "api/yang/public"]
+	path = api/yang/public
+	url = https://github.com/openconfig/public.git
